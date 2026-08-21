@@ -2,7 +2,7 @@
 
 <h3 align="center">🛡️ Aspirante Pentester Jr | Redes | Ciberseguridad | Comunicación</h3>
 <p align="center">
-  <a href="https://portafolio-red-team.vercel.app/#ctf-arena" target="_blank">
+  <a href="https://portafolio-red-team.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTAFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/saulo-cuevas-43450b313/" target="_blank">
