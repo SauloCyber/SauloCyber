@@ -8,7 +8,7 @@ vulnerabilidades, seguridad web y explotación de entornos vulnerables**.
 Me gusta aprender mediante laboratorios prácticos, CTFs y máquinas
 vulnerables, documentando las técnicas utilizadas y los hallazgos obtenidos.
 
----
+
 
 ## 🧠 Sobre mí
 
