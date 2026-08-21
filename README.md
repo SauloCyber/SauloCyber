@@ -25,31 +25,8 @@
 </p>
 <br>
 
----
-
-### 🧠 About Me
-
-Estudiante de Comunicación y analista en ciberseguridad enfocado en pentesting, redes Cisco e investigación técnica.
-* 🛠️ Administración e infraestructura de Redes (Cisco, IPv6)
-* 🛡️ Seguridad ofensiva y resolución de CTFs
-* 🤖 Análisis de binarios, esteganografía y OSINT
-* 📍 Santo Domingo, República Dominicana
-
-**🧠 Professional Summary**
-
-Cybersecurity and communications-focused professional with hands-on experience in:
-* Ethical Hacking & Pentesting (TryHackMe, Hack The Box)
-* Network Administration & Cisco Hardware
-* Vulnerability Assessment & Threat Analysis
-* Graphic Restoration & Professional Document Design
-* Journalistic Research applied to OSINT
-
-Aplicando metodologías reales y prácticas *secure-by-design* con reporting técnico, investigativo y periodístico profesional.
-
----
-
-### ⚡ Tech Stack
-<p align="center">
+## ⚡ Tech Stack
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,windows,git,github,vscode,md&theme=dark" alt="Tech Stack" />
   </a>
@@ -58,50 +35,61 @@ Aplicando metodologías reales y prácticas *secure-by-design* con reporting té
 <br>
 
 ### 🔗 🛠️ Pentesting Toolkit
-<p align="center">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/metasploit/2A63FF" height="40" alt="Metasploit" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" alt="Cisco" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/zaproxy/000000" height="40" alt="OWASP ZAP" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/nmap/000000" height="40" alt="Nmap" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/2A63FF" height="40" alt="Metasploit" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/aircrackng/000000" height="40" alt="Aircrack-ng" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" alt="Cisco" /> &nbsp;
   <img src="https://cdn.simpleicons.org/hackthebox/11FF00" height="40" alt="Hack The Box" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/owasp/000000" height="40" alt="OWASP" />
 </p>
 
 ---
 
-### 🚀 Experience
+### 🧠 About Me
 
-💼 **Analista de Ciberseguridad & Especialista en Redes**
-*Independiente · Proyectos Prácticos y Académicos*
-📅 jul. 2025 - actualidad
-📍 Santo Domingo, República Dominicana · Híbrido
+Estudiante de ciberseguridad enfocado en pentesting, entornos Red Team e infraestructura de redes.
 
-**🚀 Ciberseguridad, Redes & Multimedia**
-✨ Resolución de máquinas y retos CTF (TryHackMe, Hack The Box)
-🧠 Configuración y administración de topologías de red en Packet Tracer
-🎨 Edición gráfica, restauración de imágenes y diseño profesional
-⚙️ Análisis de metodologías de investigación aplicadas a la ciberseguridad
+🛠️ Administración de Redes y hardware (Cisco, IPv6)
+🛡️ Seguridad ofensiva y resolución de CTFs
+🤖 Explotación de Active Directory y análisis de vulnerabilidades
+📍 Santo Domingo, República Dominicana
 
-**📌 Proyectos Destacados:**
+**🧠 Professional Summary**
 
-🛡️ **CTF Arena & Red Team**
-→ Despliegue de tácticas ofensivas, cracking de hashes y análisis de binarios.
+Cybersecurity enthusiast and student with hands-on practice in:
+
+Ethical Hacking & Penetration Testing
+Active Directory Exploitation (Pro Labs)
+Network Administration & Routing
+Vulnerability Assessment & Threat Analysis
+
+Aplicando metodologías reales y prácticas *secure-by-design* en entornos simulados y laboratorios de hacking.
+
+---
+
+### 🚀 Proyectos y Laboratorios Destacados
+
+🎓 **Jugador de CTF & Entusiasta de la Seguridad**
+
+Entornos de Práctica · Desarrollo Autodidacta
+📍 Santo Domingo, República Dominicana
+
+**🚀 Ciberseguridad & Redes**
+✨ Resolución constante de máquinas en plataformas de simulación (Hack The Box, TryHackMe)
+🧠 Prácticas de pentesting interno y externo
+⚙️ Configuración y despliegue de topologías de red en laboratorios
+
+**📌 Portafolio de Laboratorios:**
+
+🛡️ **Dante Pro Lab (Hack The Box)**
+→ Compromiso de un entorno empresarial simulado. Práctica intensiva en enumeración, pivoting, escalada de privilegios y explotación completa de Active Directory.
+
+🚩 **CTF Arena & Red Team Portfolio**
+→ Espacio web donde documento la resolución técnica de máquinas, tácticas ofensivas, cracking de hashes y metodologías de intrusión paso a paso.
 
 📡 **Infraestructura de Redes IPv6**
-→ Diseño e implementación de protocolos de enrutamiento y administración de hardware Cisco.
-
-🎙️ **Proyecto "En la Mira" (RTVD)**
-→ Propuesta de participación en medios para integrar análisis, comunicación e investigación.
-
-🌱 **Iniciativa "Yo Siembro"**
-→ Participación activa y compromiso con proyectos de impacto social y desarrollo.
+→ Diseño e implementación de protocolos de enrutamiento y administración de hardware para la optimización de redes seguras.
