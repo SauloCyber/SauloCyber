@@ -1,18 +1,3 @@
-<h1 align="center">Saulo Cuevas </h1>
-
-<h3 align="center">🛡️ Aspirante Pentester Jr | Redes | Ciberseguridad | Comunicación</h3>
-<p align="center">
-  <a href="https://portafolio-red-team.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/saulo-cuevas-43450b313/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saulocuevas87@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 <!-- Banner Animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=200&section=header&text=Saulo%20Rafael&fontSize=80&fontColor=00FF00&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -66,6 +51,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
+---
 
 ### 📊 Estadísticas (Terminal View)
 <p align="center">
