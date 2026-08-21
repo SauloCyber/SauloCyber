@@ -110,8 +110,32 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
   <img src="https://skillicons.dev/icons?i=vscode" />
 </a>
 
-<a href="https://www.markdownguide.org/">
-  <img src="https://skillicons.dev/icons?i=md" />
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://aws.amazon.com/">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</a>
+
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://www.postman.com/">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</a>
+
+<a href="#">
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" title="Prompt Engineering" />
+</a>
+
+<a href="https://ollama.com/">
+  <img src="https://ollama.com/public/ollama.png" width="48" />
+</a>
+
+<a href="https://openai.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" title="Codex" />
 </a>
 
 </p>
@@ -130,8 +154,8 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" />
 </a>
 
-<a href="https://www.zaproxy.org/">
-  <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" width="45" />
+<a href="https://portswigger.net/burp">
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="45" />
 </a>
 
 <a href="https://nmap.org/">
@@ -150,6 +174,18 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
   <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="45" />
 </a>
 
+<a href="https://www.kali.org/tools/wifite/">
+  <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="45" />
+</a>
+
+<a href="https://www.paterva.com/web7/">
+  <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="45" />
+</a>
+
+<a href="https://github.com/trustedsec/social-engineer-toolkit">
+  <img src="https://www.kali.org/tools/set/images/set-logo.svg" width="45" />
+</a>
+
 <a href="https://www.cisco.com/">
   <img src="https://img.icons8.com/color/48/cisco.png" />
 </a>
@@ -159,6 +195,15 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
 </a>
 
 </p>
+
+---
+
+## ⚙️ Automation & Offensive Security
+
+- Bash/Python Automation Scripts
+- Recon & Triage Automation
+- Automated Reporting & Log Analysis
+- AD Enumeration & Exploitation Automation
 
 ---
 
