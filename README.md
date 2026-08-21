@@ -27,50 +27,81 @@
 
 ---
 
-🧠 About Me
-Desarrollador web y analista en ciberseguridad enfocado en pentesting, desarrollo fullstack y automatización con IA.
+### 🧠 About Me
 
-🛠️ Desarrollo de SaaS
-🛡️ Seguridad ofensiva (Pentesting)
-🤖 Automatización con IA aplicada a ciberseguridad
-📍 Buenos Aires, Argentina
-🧠 Professional Summary
-Cybersecurity-focused professional with hands-on experience in:
+Estudiante de Comunicación y analista en ciberseguridad enfocado en pentesting, redes Cisco e investigación técnica.
+* 🛠️ Administración e infraestructura de Redes (Cisco, IPv6)
+* 🛡️ Seguridad ofensiva y resolución de CTFs
+* 🤖 Análisis de binarios, esteganografía y OSINT
+* 📍 Santo Domingo, República Dominicana
 
-Ethical Hacking & Pentesting
-Vulnerability Assessment
-Threat Analysis
-Fullstack Development
-AI-Augmented Security Workflows
-Aplicando metodologías reales (OWASP Top 10) y prácticas secure-by-design con reporting técnico profesional.
+**🧠 Professional Summary**
 
-🚀 Experience
-💼 Desarrollador de páginas web autónomo
-Self Employed · Profesional independiente
+Cybersecurity and communications-focused professional with hands-on experience in:
+* Ethical Hacking & Pentesting (TryHackMe, Hack The Box)
+* Network Administration & Cisco Hardware
+* Vulnerability Assessment & Threat Analysis
+* Graphic Restoration & Professional Document Design
+* Journalistic Research applied to OSINT
+
+Aplicando metodologías reales y prácticas *secure-by-design* con reporting técnico, investigativo y periodístico profesional.
+
+---
+
+### ⚡ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,windows,git,github,vscode,md&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+<br>
+
+### 🔗 🛠️ Pentesting Toolkit
+<p align="center">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/2A63FF" height="40" alt="Metasploit" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" alt="Cisco" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hackthebox/11FF00" height="40" alt="Hack The Box" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="40" alt="OWASP" />
+</p>
+
+---
+
+### 🚀 Experience
+
+💼 **Analista de Ciberseguridad & Especialista en Redes**
+*Independiente · Proyectos Prácticos y Académicos*
 📅 jul. 2025 - actualidad
-📍 Provincia de Buenos Aires, Argentina · En remoto
+📍 Santo Domingo, República Dominicana · Híbrido
 
-🚀 Desarrollo Web & Soluciones Digitales
+**🚀 Ciberseguridad, Redes & Multimedia**
+✨ Resolución de máquinas y retos CTF (TryHackMe, Hack The Box)
+🧠 Configuración y administración de topologías de red en Packet Tracer
+🎨 Edición gráfica, restauración de imágenes y diseño profesional
+⚙️ Análisis de metodologías de investigación aplicadas a la ciberseguridad
 
-✨ Desarrollo de landing pages modernas enfocadas en conversión
-🧠 Creación de productos SaaS propios
-🎨 Diseño UI/UX optimizado para experiencia de usuario
-⚙️ Implementación de soluciones web para negocios
+**📌 Proyectos Destacados:**
 
-📌 Proyectos Destacados:
+🛡️ **CTF Arena & Red Team**
+→ Despliegue de tácticas ofensivas, cracking de hashes y análisis de binarios.
 
-🛍️ Handerly Beauty
-→ Web empresarial con enfoque estética capilar y venta de productos
+📡 **Infraestructura de Redes IPv6**
+→ Diseño e implementación de protocolos de enrutamiento y administración de hardware Cisco.
 
-💉 Sistema de Stock de Vacunas
-→ Plataforma de gestión interna y control de inventario
+🎙️ **Proyecto "En la Mira" (RTVD)**
+→ Propuesta de participación en medios para integrar análisis, comunicación e investigación.
 
-🛒 Buyflow
-→ Sistema de gestión de compras
-
-📈 LamakinaStrategy
-→ Plataforma orientada a estrategia de trading
-
-🛡️ CyberShield
-→ Solución de ciberseguridad impulsada por IA
-
+🌱 **Iniciativa "Yo Siembro"**
+→ Participación activa y compromiso con proyectos de impacto social y desarrollo.
