@@ -26,51 +26,51 @@
 
 ## About Me
 
-Estudiante de ciberseguridad enfocado en **pentesting**, entornos **Red Team** e infraestructura de **redes técnicas**.
+Cybersecurity student focused on **penetration testing**, **Red Team** environments, and **network infrastructure**.
 
-- 🛠️ Administración de redes y hardware (Cisco)
-- 🛡️ Seguridad ofensiva y resolución de CTFs
-- 🤖 Explotación de Active Directory y análisis de vulnerabilidades
+- 🛠️ Network administration and hardware (Cisco)
+- 🛡️ Offensive security and CTF solving
+- 🤖 Active Directory exploitation and vulnerability analysis
 
 ---
 
 ## Professional Summary
 
-Cybersecurity enthusiast and student with hands-on practice in:
+Cybersecurity enthusiast with hands-on practice in:
 
 - Ethical Hacking & Penetration Testing
 - Active Directory Exploitation (Pro Labs)
 - Network Administration & Routing
 - Vulnerability Assessment & Threat Analysis
 
-Aplicando metodologías reales y prácticas **secure-by-design** en entornos simulados y laboratorios de hacking.
+Applying real-world methodologies and **secure-by-design** practices in simulated environments and hacking labs.
 
 ---
 
 ## Experience
 
-### Estudiante de Ciberseguridad & Pentester en formación
+### Cybersecurity Student & Pentester in Training
 
-**Autodidacta · Práctica continua**  
-2024 - actualidad
+**Self-taught · Continuous practice**  
+2024 – present
 
-**Entornos de Práctica & Desarrollo Técnico:**
+**Practice Environments & Technical Development:**
 
-✨ Resolución constante de máquinas en plataformas de simulación (Hack The Box, TryHackMe)  
-🧠 Prácticas de pentesting interno y externo  
-⚙️ Configuración y despliegue de topologías de red en laboratorios  
-🛡️ Compromiso de entornos empresariales simulados (Dante Pro Lab)
+✨ Constant machine resolution on simulation platforms (Hack The Box, TryHackMe)  
+🧠 Internal and external pentesting practices  
+⚙️ Network topology configuration and deployment in labs  
+🛡️ Compromise of simulated enterprise environments (Dante Pro Lab)
 
-**Proyectos Destacados:**
+**Featured Projects:**
 
 🛡️ **Dante Pro Lab (Hack The Box)**  
-→ Compromiso de un entorno empresarial simulado. Práctica intensiva en enumeración, pivoting, escalada de privilegios y explotación completa de Active Directory.
+→ Compromise of a simulated corporate environment. Intensive practice in enumeration, pivoting, privilege escalation, and full Active Directory exploitation.
 
 🚩 **CTF Arena & Red Team Portfolio**  
-→ Espacio web donde documento la resolución técnica de máquinas, tácticas ofensivas, cracking de hashes y metodologías de intrusión paso a paso.
+→ Web space where I document technical machine resolutions, offensive tactics, hash cracking, and step‑by‑step intrusion methodologies.
 
-📡 **Infraestructura de Redes**  
-→ Diseño e implementación de protocolos de enrutamiento y administración de hardware para la optimización de redes seguras.
+📡 **Network Infrastructure**  
+→ Design and implementation of routing protocols and hardware administration for secure network optimization.
 
 ---
 
@@ -87,25 +87,25 @@ Aplicando metodologías reales y prácticas **secure-by-design** en entornos sim
 ## 🛠️ Pentesting Toolkit
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" title="Kali Linux" />&nbsp;
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" title="Ubuntu" />&nbsp;
-  <img src="https://cdn.simpleicons.org/zaproxy/000000" height="40" alt="OWASP ZAP" title="OWASP ZAP" />&nbsp;
-  <img src="https://cdn.simpleicons.org/nmap/000000" height="40" alt="Nmap" title="Nmap" />&nbsp;
-  <img src="https://cdn.simpleicons.org/metasploit/2A63FF" height="40" alt="Metasploit" title="Metasploit" />&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" title="Wireshark" />&nbsp;
-  <img src="https://cdn.simpleicons.org/aircrackng/000000" height="40" alt="Aircrack-ng" title="Aircrack-ng" />&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" alt="Cisco" title="Cisco" />&nbsp;
-  <img src="https://cdn.simpleicons.org/hackthebox/11FF00" height="40" alt="Hack The Box" title="Hack The Box" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=zap&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-2A63FF?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-11FF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
 </p>
 
 ---
 
 ## Education & Focus
 
-- 🎓 Information Security Student — Formación continua en ciberseguridad
-- 🚩 CTF Player — Participación activa en plataformas de hacking ético
-- 🛡️ Ethical Hacking & Red Team — Formación autodidacta y práctica constante
-- 📡 Network Administration — Configuración y administración de redes técnicas
+- 🎓 Information Security Student — Continuous cybersecurity training
+- 🚩 CTF Player — Active participation in ethical hacking platforms
+- 🛡️ Ethical Hacking & Red Team — Self‑taught and constant practice
+- 📡 Network Administration — Configuration and management of technical networks
 
 ---
 
@@ -136,5 +136,5 @@ Aplicando metodologías reales y prácticas **secure-by-design** en entornos sim
 ---
 
 <p align="center">
-  <i>"No hay mejor defensa que un buen ataque."</i> — <b>Sun Tzu</b>
+  <i>"The best defense is a good offense."</i> — <b>Sun Tzu</b>
 </p>
