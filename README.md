@@ -122,23 +122,11 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
   <img src="https://skillicons.dev/icons?i=mysql" />
 </a>
 
-<a href="https://www.postman.com/">
-  <img src="https://skillicons.dev/icons?i=postman" />
-</a>
 
 <a href="#">
   <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" title="Prompt Engineering" />
 </a>
 
-<a href="https://ollama.com/">
-  <img src="https://ollama.com/public/ollama.png" width="48" />
-</a>
-
-<a href="https://openai.com/">
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" title="Codex" />
-</a>
-
-</p>
 
 ---
 
@@ -190,9 +178,6 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
   <img src="https://img.icons8.com/color/48/cisco.png" />
 </a>
 
-<a href="https://www.hackthebox.com/">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hack-the-box-an-online-platform-to-test-and-advance-your-cyber-security-skills-logo-color-tal-revivo.png" />
-</a>
 
 </p>
 
