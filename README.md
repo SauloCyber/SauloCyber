@@ -1,6 +1,5 @@
-<h1 align="center">Saulo Cuevas</h1>
-
-<h4 align="center">🛡️ Information Security Studen | Ethical Hacking | Red Team | CTF Player </h4>
+<h1 align="center">🖥️ Saulo Cuevas</h1>
+<h3 align="center">🛡️ Information Security Student | Ethical Hacking | Red Team | CTF Player</h3>
 
 <p align="center">
   <a href="https://portafolio-red-team.vercel.app/#ctf-arena" target="_blank">
@@ -13,6 +12,7 @@
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
+
 <br>
 
 ---
@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=Initializing+Security+Environment...;Executing+Reconnaissance+%26+Exploitation...;Bypassing+Security+Protocols...;[+]+ACCESS+GRANTED+[+];Generating+Threat+Report..." alt="Terminal Simulation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=40&lines=Initializing+Security+Environment...;Executing+Reconnaissance+%26+Exploitation...;Bypassing+Security+Protocols...;[+]+ACCESS+GRANTED+[+];Generating+Threat+Report...;Welcome+to+Saulo's+Cyber+Domain" alt="Terminal Simulation" />
 </p>
 <br>
 
@@ -53,45 +53,80 @@
 
 ### 🧠 About Me
 
-Estudiante de ciberseguridad enfocado en pentesting, entornos Red Team e infraestructura de redes.
+<table>
+<tr>
+<td width="50%">
 
-🛠️ Administración de Redes y hardware (Cisco, IPv6)
-🛡️ Seguridad ofensiva y resolución de CTFs
-🤖 Explotación de Active Directory y análisis de vulnerabilidades
-📍 Santo Domingo, República Dominicana
+#### 🇪🇸 Sobre mí
 
-**🧠 Professional Summary**
+Estudiante de ciberseguridad enfocado en **pentesting**, entornos **Red Team** e infraestructura de redes.
 
-Cybersecurity enthusiast and student with hands-on practice in:
+- 🛠️ Administración de Redes y hardware (Cisco, IPv6)
+- 🛡️ Seguridad ofensiva y resolución de CTFs
+- 🤖 Explotación de Active Directory y análisis de vulnerabilidades
+- 📍 Santo Domingo, República Dominicana
 
-Ethical Hacking & Penetration Testing
-Active Directory Exploitation (Pro Labs)
-Network Administration & Routing
-Vulnerability Assessment & Threat Analysis
+</td>
+<td width="50%">
 
-Aplicando metodologías reales y prácticas *secure-by-design* en entornos simulados y laboratorios de hacking.
+#### 🇬🇧 Professional Summary
+
+Cybersecurity enthusiast with hands-on practice in:
+
+- Ethical Hacking & Penetration Testing
+- Active Directory Exploitation (Pro Labs)
+- Network Administration & Routing
+- Vulnerability Assessment & Threat Analysis
+
+</td>
+</tr>
+</table>
+
+> Aplicando metodologías reales y prácticas *secure-by-design* en entornos simulados y laboratorios de hacking.
 
 ---
 
 ### 🚀 Proyectos y Laboratorios Destacados
 
-🎓 **Jugador de CTF & Entusiasta de la Seguridad**
+| Proyecto | Descripción |
+|----------|-------------|
+| **🛡️ Dante Pro Lab (Hack The Box)** | Compromiso de un entorno empresarial simulado. Práctica intensiva en enumeración, pivoting, escalada de privilegios y explotación completa de Active Directory. |
+| **🚩 CTF Arena & Red Team Portfolio** | Espacio web donde documento la resolución técnica de máquinas, tácticas ofensivas, cracking de hashes y metodologías de intrusión paso a paso. |
+| **📡 Infraestructura de Redes IPv6** | Diseño e implementación de protocolos de enrutamiento y administración de hardware para la optimización de redes seguras. |
 
-Entornos de Práctica · Desarrollo Autodidacta
-📍 Santo Domingo, República Dominicana
+---
 
-**🚀 Ciberseguridad & Redes**
-✨ Resolución constante de máquinas en plataformas de simulación (Hack The Box, TryHackMe)
-🧠 Prácticas de pentesting interno y externo
-⚙️ Configuración y despliegue de topologías de red en laboratorios
+### 📊 GitHub Stats
 
-**📌 Portafolio de Laboratorios:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SauloCyber&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" />
+</p>
 
-🛡️ **Dante Pro Lab (Hack The Box)**
-→ Compromiso de un entorno empresarial simulado. Práctica intensiva en enumeración, pivoting, escalada de privilegios y explotación completa de Active Directory.
+---
 
-🚩 **CTF Arena & Red Team Portfolio**
-→ Espacio web donde documento la resolución técnica de máquinas, tácticas ofensivas, cracking de hashes y metodologías de intrusión paso a paso.
+### 🏆 Trofeos y Logros
 
-📡 **Infraestructura de Redes IPv6**
-→ Diseño e implementación de protocolos de enrutamiento y administración de hardware para la optimización de redes seguras.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SauloCyber&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📌 Visitas al perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SauloCyber&color=00FF00&style=for-the-badge&label=VISITAS" alt="Profile Views" />
+</p>
+
+---
+
+### 🔥 Frase de cabecera
+
+> *"El conocimiento es la mejor herramienta de un hacker. Compartirlo es la mayor fortaleza."*
+
+---
+
+**💻 ¡Conecta conmigo!**  
+[![Portafolio](https://img.shields.io/badge/-Portafolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portafolio-red-team.vercel.app/#ctf-arena)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saulo-cuevas-43450b313/)
+[![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:saulocuevas87@gmail.com)
