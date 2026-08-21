@@ -19,23 +19,27 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=Initializing+Security+Environment...;Executing+Reconnaissance+%26+Exploitation...;Bypassing+Security+Protocols...;[+]+ACCESS+GRANTED+[+];Generating+Threat+Report..." alt="Terminal Simulation" />
 </p>
-### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=11FF00" alt="Hack The Box" />
-  <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+### ⚡ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,windows,git,github,vscode,md&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+### 🛠️ Pentesting & Networking Toolkit
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SauloCyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="Estadísticas de Saulo" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SauloCyber&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="Racha de GitHub" width="48%" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" alt="Cisco" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hackthebox/11FF00" height="40" alt="Hack The Box" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tryhackme/FFFFFF" height="40" alt="TryHackMe" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" />
+  &nbsp;
 </p>
