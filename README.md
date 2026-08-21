@@ -25,7 +25,9 @@
 </p>
 <br>
 
-## ⚡ Tech Stack
+---
+
+### ⚡ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,windows,git,github,vscode,md&theme=dark" alt="Tech Stack" />
