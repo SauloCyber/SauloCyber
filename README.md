@@ -15,6 +15,10 @@
 </p>
 <br>
 
+### 🖥️ Terminal Simulation
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=Initializing+Security+Environment...;Executing+Reconnaissance+%26+Exploitation...;Bypassing+Security+Protocols...;[+]+ACCESS+GRANTED+[+];Generating+Threat+Report..." alt="Terminal Simulation" />
+</p>
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
