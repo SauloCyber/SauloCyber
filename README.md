@@ -27,45 +27,50 @@
 
 ---
 
-### 🧠 About Me
+🧠 About Me
+Desarrollador web y analista en ciberseguridad enfocado en pentesting, desarrollo fullstack y automatización con IA.
 
-Estudiante enfocado en seguridad ofensiva, operaciones Red Team y la fusión de tecnología con investigación periodística.
+🛠️ Desarrollo de SaaS
+🛡️ Seguridad ofensiva (Pentesting)
+🤖 Automatización con IA aplicada a ciberseguridad
+📍 Buenos Aires, Argentina
+🧠 Professional Summary
+Cybersecurity-focused professional with hands-on experience in:
 
-* 🛠️ Administración e infraestructura de Redes (Cisco, IPv6)
-* 🛡️ Seguridad ofensiva y resolución de CTFs (TryHackMe, Hack The Box)
-* 📝 Comunicación Social mención Periodismo (Universidad O&M)
-* 📍 Santo Domingo, República Dominicana
+Ethical Hacking & Pentesting
+Vulnerability Assessment
+Threat Analysis
+Fullstack Development
+AI-Augmented Security Workflows
+Aplicando metodologías reales (OWASP Top 10) y prácticas secure-by-design con reporting técnico profesional.
 
----
+🚀 Experience
+💼 Desarrollador de páginas web autónomo
+Self Employed · Profesional independiente
+📅 jul. 2025 - actualidad
+📍 Provincia de Buenos Aires, Argentina · En remoto
 
-### ⚡ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,windows,git,github,vscode,md&theme=dark" alt="Tech Stack" />
-  </a>
-</p>
+🚀 Desarrollo Web & Soluciones Digitales
 
-<br>
+✨ Desarrollo de landing pages modernas enfocadas en conversión
+🧠 Creación de productos SaaS propios
+🎨 Diseño UI/UX optimizado para experiencia de usuario
+⚙️ Implementación de soluciones web para negocios
 
-### 🛠️ Pentesting & Networking Toolkit
-<p align="left">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" alt="Cisco" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/hackthebox/11FF00" height="40" alt="Hack The Box" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tryhackme/FFFFFF" height="40" alt="TryHackMe" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" />
-</p>
+📌 Proyectos Destacados:
 
----
+🛍️ Handerly Beauty
+→ Web empresarial con enfoque estética capilar y venta de productos
 
-### 📊 GitHub Stats
+💉 Sistema de Stock de Vacunas
+→ Plataforma de gestión interna y control de inventario
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SauloCyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="Estadísticas de Saulo" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SauloCyber&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="Racha de GitHub" width="48%" />
-</p>
+🛒 Buyflow
+→ Sistema de gestión de compras
+
+📈 LamakinaStrategy
+→ Plataforma orientada a estrategia de trading
+
+🛡️ CyberShield
+→ Solución de ciberseguridad impulsada por IA
+
