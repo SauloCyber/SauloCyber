@@ -234,3 +234,17 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
 <p align="center">
   <i>"The best defense is a good offense."</i> — <b>Sun Tzu</b>
 </p>
+
+--
+
+## 🐍 Contribution Snake (Hacker Style)
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>"The best defense is a good offense."</i> — <b>Sun Tzu</b>
+</p>
