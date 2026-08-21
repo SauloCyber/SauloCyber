@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola! Soy Saulo Rafael Cuevas Ovalle 👋</h1>
+<h1 align="center">Soy Saulo Rafael Cuevas </h1>
 
-<h3 align="center">🛡️ Entusiasta del Red Team | Redes | Ciberseguridad | Comunicación</h3>
+<h3 align="center">🛡️ Aspirante Pentester Jr | Redes | Ciberseguridad | Comunicación</h3>
 
 <p align="center">
   <a href="https://portafolio-red-team.vercel.app/#ctf-arena" target="_blank">
