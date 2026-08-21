@@ -15,22 +15,40 @@
 </p>
 <br>
 
+---
+
 ### 🖥️ Terminal Simulation
+
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=Initializing+Security+Environment...;Executing+Reconnaissance+%26+Exploitation...;Bypassing+Security+Protocols...;[+]+ACCESS+GRANTED+[+];Generating+Threat+Report..." alt="Terminal Simulation" />
 </p>
+<br>
+
+---
+
+### 🧠 About Me
+
+Estudiante enfocado en seguridad ofensiva, operaciones Red Team y la fusión de tecnología con investigación periodística.
+
+* 🛠️ Administración e infraestructura de Redes (Cisco, IPv6)
+* 🛡️ Seguridad ofensiva y resolución de CTFs (TryHackMe, Hack The Box)
+* 📝 Comunicación Social mención Periodismo (Universidad O&M)
+* 📍 Santo Domingo, República Dominicana
+
+---
 
 ### ⚡ Tech Stack
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,windows,git,github,vscode,md&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
----
+<br>
 
 ### 🛠️ Pentesting & Networking Toolkit
-<p align="center">
+<p align="left">
   &nbsp;
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,5 +59,13 @@
   <img src="https://cdn.simpleicons.org/tryhackme/FFFFFF" height="40" alt="TryHackMe" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" />
-  &nbsp;
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SauloCyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="Estadísticas de Saulo" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SauloCyber&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="Racha de GitHub" width="48%" />
 </p>
