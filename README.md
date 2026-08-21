@@ -17,25 +17,29 @@
 
 ### 🖥️ Terminal Simulation
 
-```bash
-saulo@redteam-os:~$ whoami
-saulo_rafael_cuevas_ovalle
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&background=0D1117&center=false&vCenter=true&width=600&height=180&lines=saulo%40redteam-os%3A~%24+whoami;saulo_rafael_cuevas_ovalle;saulo%40redteam-os%3A~%24+./fetch_skills.sh;%5B%2B%5D+Red+Team+%7C+CTFs+(HTB%2CTHM)+%7C+Cisco;saulo%40redteam-os%3A~%24+cat+status.txt;Desplegando+t%C3%A1cticas+ofensivas+en+CTF+Arena..." alt="Terminal Simulation" />
+</p>
 
-saulo@redteam-os:~$ ./fetch_skills.sh
-[+] Cargando matriz de habilidades...
-> Seguridad:   Operaciones Red Team, CTFs (HTB, THM), Esteganografía
-> Redes:       Infraestructura Cisco, Protocolos IPv6, Packet Tracer
-> Medios:      Comunicación Social & Periodismo (Universidad O&M)
-> Multimedia:  Edición Gráfica Avanzada y Restauración
+---
 
-saulo@redteam-os:~$ cat current_status.txt
-Desplegando tácticas defensivas/ofensivas en CTF Arena e investigando la intersección entre ciberseguridad y periodismo en Santo Domingo.
+### 🛠️ Tech Stack & Tools
 
-saulo@redteam-os:~$ ping -c 3 portafolio-red-team.vercel.app
-PING portafolio-red-team.vercel.app (76.76.21.21) 56(84) bytes of data.
-64 bytes from 76.76.21.21: icmp_seq=1 ttl=55 time=12.4 ms
-64 bytes from 76.76.21.21: icmp_seq=2 ttl=55 time=11.8 ms
-64 bytes from 76.76.21.21: icmp_seq=3 ttl=55 time=12.1 ms
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=11FF00" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
 
---- portafolio-red-team.vercel.app ping statistics ---
-3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SauloCyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="Estadísticas de Saulo" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SauloCyber&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="Racha de GitHub" width="48%" />
+</p>
