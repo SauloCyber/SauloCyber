@@ -192,26 +192,6 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
 
 ---
 
-## 🚀 Projects & Content
-
-<p align="center">
-
-<a href="https://portafolio-red-team.vercel.app/#ctf-arena">
-  <img src="https://img.shields.io/badge/🔐%20Red%20Team%20Portfolio-000?style=for-the-badge&logo=vercel" />
-</a>
-
-<a href="https://github.com/SauloCyber">
-  <img src="https://img.shields.io/badge/🐍%20CTF%20Writeups-000?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/saulo-cuevas-43450b313/">
-  <img src="https://img.shields.io/badge/📊%20Pentesting%20Projects-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-
-</p>
-
----
-
 ## 🎓 Education & Focus
 
 - 🎓 Information Security Student — Continuous cybersecurity training
