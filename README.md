@@ -1,16 +1,16 @@
 <h1 align="center">Saulo Cuevas</h1>
 
-<h4 align="center">🛡️ Information Security Student | Ethical Hacking | Red Team | CTF Player</h4>
+<h3 align="center">🛡️ Information Security Student | Ethical Hacking | Red Team | CTF Player</h3>
 
 <p align="center">
-  <a href="https://portafolio-red-team.vercel.app/#ctf-arena" target="_blank">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  <a href="https://portafolio-red-team.vercel.app/#ctf-arena">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/saulo-cuevas-43450b313/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/saulo-cuevas-43450b313/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:saulocuevas87@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -19,12 +19,12 @@
 ## 🖥️ Terminal Simulation
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=40&lines=Initializing+Security+Environment...;Loading+Red+Team+Modules...;Executing+Reconnaissance...;Bypassing+Security+Protocols...;[+]+ACCESS+GRANTED+[+];Generating+Threat+Report..." alt="Terminal Simulation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Initializing+Security+Environment...;Loading+Red+Team+Modules...;Reconnaissance+%26+Enumeration...;Exploitation+Phase...;Bypassing+Security+Protocols...;Access+Granted+✔" />
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
 Cybersecurity student focused on **penetration testing**, **Red Team** environments, and **network infrastructure**.
 
@@ -34,7 +34,7 @@ Cybersecurity student focused on **penetration testing**, **Red Team** environme
 
 ---
 
-## Professional Summary
+## 🧠 Professional Summary
 
 Cybersecurity enthusiast with hands-on practice in:
 
@@ -47,12 +47,12 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
 
 ---
 
-## Experience
+## 🚀 Experience
 
 ### Cybersecurity Student & Pentester in Training
 
 **Self-taught · Continuous practice**  
-2024 – present
+📅 2024 – present
 
 **Practice Environments & Technical Development:**
 
@@ -61,7 +61,7 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
 ⚙️ Network topology configuration and deployment in labs  
 🛡️ Compromise of simulated enterprise environments (Dante Pro Lab)
 
-**Featured Projects:**
+📌 **Featured Projects:**
 
 🛡️ **Dante Pro Lab (Hack The Box)**  
 → Compromise of a simulated corporate environment. Intensive practice in enumeration, pivoting, privilege escalation, and full Active Directory exploitation.
@@ -76,29 +76,113 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
 
 ## ⚡ Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,windows,git,github,vscode,md&theme=dark" alt="Tech Stack" />
-  </a>
+<p align="center">
+
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</a>
+
+<a href="https://www.linux.org/">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
+
+<a href="https://ubuntu.com/">
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
+</a>
+
+<a href="https://www.microsoft.com/en-us/windows">
+  <img src="https://skillicons.dev/icons?i=windows" />
+</a>
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://www.markdownguide.org/">
+  <img src="https://skillicons.dev/icons?i=md" />
+</a>
+
 </p>
 
 ---
 
 ## 🛠️ Pentesting Toolkit
 
-- **Kali Linux**
-- **Ubuntu**
-- **OWASP ZAP**
-- **Nmap**
-- **Metasploit**
-- **Wireshark**
-- **Aircrack‑ng**
-- **Cisco**
-- **Hack The Box**
+<p align="center">
+
+<a href="https://www.kali.org/">
+  <img src="https://img.icons8.com/color/48/kali-linux.png" />
+</a>
+
+<a href="https://ubuntu.com/">
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" />
+</a>
+
+<a href="https://www.zaproxy.org/">
+  <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" width="45" />
+</a>
+
+<a href="https://nmap.org/">
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="45" />
+</a>
+
+<a href="https://www.metasploit.com/">
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" />
+</a>
+
+<a href="https://www.wireshark.org/">
+  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="45" />
+</a>
+
+<a href="https://www.aircrack-ng.org/">
+  <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="45" />
+</a>
+
+<a href="https://www.cisco.com/">
+  <img src="https://img.icons8.com/color/48/cisco.png" />
+</a>
+
+<a href="https://www.hackthebox.com/">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hack-the-box-an-online-platform-to-test-and-advance-your-cyber-security-skills-logo-color-tal-revivo.png" />
+</a>
+
+</p>
 
 ---
 
-## Education & Focus
+## 🚀 Projects & Content
+
+<p align="center">
+
+<a href="https://portafolio-red-team.vercel.app/#ctf-arena">
+  <img src="https://img.shields.io/badge/🔐%20Red%20Team%20Portfolio-000?style=for-the-badge&logo=vercel" />
+</a>
+
+<a href="https://github.com/SauloCyber">
+  <img src="https://img.shields.io/badge/🐍%20CTF%20Writeups-000?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/saulo-cuevas-43450b313/">
+  <img src="https://img.shields.io/badge/📊%20Pentesting%20Projects-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+---
+
+## 🎓 Education & Focus
 
 - 🎓 Information Security Student — Continuous cybersecurity training
 - 🚩 CTF Player — Active participation in ethical hacking platforms
@@ -107,29 +191,13 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - Junior Pentester / Red Team
 - Active Directory Exploitation
 - CTF & Offensive Security
 - Network Infrastructure & Security
 - Vulnerability Assessment & Reporting
-
----
-
-## Projects & Content
-
-<p align="center">
-  <a href="https://portafolio-red-team.vercel.app/#ctf-arena" target="_blank">
-    <img src="https://img.shields.io/badge/PORTAFOLIO_RED_TEAM-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/saulo-cuevas-43450b313/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saulocuevas87@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-</p>
 
 ---
 
