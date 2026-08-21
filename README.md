@@ -15,14 +15,6 @@
 </p>
 <br>
 
-### 🖥️ Terminal Simulation
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&background=0D1117&center=false&vCenter=true&width=600&height=180&lines=saulo%40redteam-os%3A~%24+whoami;saulo_rafael_cuevas_ovalle;saulo%40redteam-os%3A~%24+./fetch_skills.sh;%5B%2B%5D+Red+Team+%7C+CTFs+(HTB%2CTHM)+%7C+Cisco;saulo%40redteam-os%3A~%24+cat+status.txt;Desplegando+t%C3%A1cticas+ofensivas+en+CTF+Arena..." alt="Terminal Simulation" />
-</p>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
