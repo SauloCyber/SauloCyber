@@ -86,17 +86,15 @@ Applying real-world methodologies and **secure-by-design** practices in simulate
 
 ## 🛠️ Pentesting Toolkit
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=zap&logoColor=white" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-2A63FF?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-11FF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-</p>
+- **Kali Linux**
+- **Ubuntu**
+- **OWASP ZAP**
+- **Nmap**
+- **Metasploit**
+- **Wireshark**
+- **Aircrack‑ng**
+- **Cisco**
+- **Hack The Box**
 
 ---
 
