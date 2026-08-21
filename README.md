@@ -1,10 +1,15 @@
 <h1 align="center">Saulo Cuevas </h1>
 
 <h3 align="center">🛡️ Aspirante Pentester Jr | Redes | Ciberseguridad | Comunicación</h3>
-
 <p align="center">
   <a href="https://portafolio-red-team.vercel.app/#ctf-arena" target="_blank">
-    <img src="https://img.shields.io/badge/🛡️_Visita_Mi_Portafolio_Red_Team-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio Red Team" />
+    <img src="https://img.shields.io/badge/PORTAFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/saulo-cuevas-43450b313/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saulocuevas87@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -15,10 +20,6 @@
 * 🚩 Participante activo en entornos **CTF** (TryHackMe, Hack The Box), resolviendo retos de esteganografía, cracking de hashes y análisis de binarios.
 * 🌐 Conocimientos en administración de redes, configuración de equipos **Cisco** (Packet Tracer) y despliegue de protocolos como IPv6.
 * 📝 Estudiante de Comunicación Social mención Periodismo en la Universidad O&M, buscando fusionar la tecnología con la investigación periodística.
-* 🎨 Experiencia adicional en edición gráfica y diseño de documentos.
-
-### 🏆 Proyectos Destacados
-* 🚩 **[CTF Arena & Red Team Portfolio](https://portafolio-red-team.vercel.app/#ctf-arena):** Un espacio donde documento mis resoluciones de máquinas, tácticas ofensivas y prácticas avanzadas de seguridad informática.
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left">
@@ -27,10 +28,9 @@
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box" />
   <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="48%" />
